@@ -4,7 +4,7 @@
 class Goids < Formula
   desc ""
   homepage ""
-  url "https://github.com/shunsukehamada/goids/releases/download/1.0.0/goids"
+  url "https://github.com/shunsukehamada/goids/releases/download/1.0.1/goids"
   sha256 "0ac52f23904deb13b77f66035d1355ce330112cc5230be56d86ffe169920be29"
   license ""
 
