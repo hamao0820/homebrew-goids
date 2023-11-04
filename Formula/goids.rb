@@ -5,7 +5,7 @@ class Goids < Formula
   desc ""
   homepage ""
   url "https://github.com/hamao0820/goids/releases/download/1.0.2/goids"
-  sha256 "0740661312f94f10a900faffd475fa0e8268bd57dca16756ccaaf6a5c36535f6"
+  sha256 "3cb86f54c512a58c861e9a686c959f33e9785fbbed7fc7b11d4e8f7d18051839"
   license ""
 
   # depends_on "cmake" => :build
